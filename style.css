@@ -1,0 +1,27 @@
+.imagem-menu {
+  height: 600px;
+  width: 300px;
+}
+
+body {
+  background-color: #ebe7d3;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  background-color: #343a40;
+  color: white;
+}
+
+#carrinho {
+  font-size: 30px;
+}
+
+#titulo {
+  font-size: 30px;
+  text-shadow: 1px 2px 5px;
+  font-variant: small-caps;
+  border: 1px solid white;
+  border-radius: 10px;
+}
